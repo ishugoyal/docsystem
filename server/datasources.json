@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "docsystem": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "docsystem",
+    "password": "",
+    "name": "docsystem",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
